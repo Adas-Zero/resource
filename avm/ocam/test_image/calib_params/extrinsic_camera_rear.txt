@@ -1,0 +1,13 @@
+# extrinsic fisheye camera calibration, positions in millimeters, rotations in degrees
+# Position x
+-600.000000
+# Position y
+0.000000
+# Position z
+1100.000000
+# Rotation x (roll)
+0.000000
+# Rotation y (pitch)
+-5.000000
+# Rotation z (yaw)
+-180.000000
