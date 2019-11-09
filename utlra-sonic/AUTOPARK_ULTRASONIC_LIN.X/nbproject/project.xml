@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>AUTOPARK_ULTRASONIC_LIN</name>
+            <name>AUTOPARK_ULTRASONIC</name>
+            <name>PUA_JAPAN_10_04</name>
+            <name>PUA_JAPAN_100</name>
+            <name>PUA_JAPAN_1002</name>
+            <name>PUA_JAPAN_10_02</name>
+            <name>PUA_PROTO_IMU_SPI_LIN_BUG_FIX_09_30_</name>
+            <name>PUA_PROTO_IMU_SPI_LIN_BUG_FIX_09_30</name>
+            <name>PUA_PROTO_IMU_SPI_LIN_BUG_FIX_09_24</name>
+            <name>PUA_PROTO_IMU_SPI_LIN(BUG_FIX)_09_24</name>
+            <name>PUA_PROTO_IMU_SPI_LIN_09_24</name>
+            <creation-uuid>4a39201c-5c57-44e5-8424-713a62ad11a8</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>.</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
